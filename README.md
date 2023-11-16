@@ -1,7 +1,5 @@
-# fivem-moneywash
+# Money Wash
 A basic FiveM script that lets players wash their dirty money using good looking animations and many more.
-
-# Velobitty script structure
 
 ![GitHub](https://img.shields.io/github/license/n3xuuu/fivem-moneywash)
 ![GitHub forks](https://img.shields.io/github/forks/n3xuuu/fivem-moneywash?style=social)
